@@ -8,6 +8,7 @@ Creates a MongoDB ATLAS cluster in the an AWS region along with user who are pro
 | ----------- | ----------- |
 | Terraform | [Installation Instructions](https://learn.hashicorp.com/tutorials/terraform/install-cli) |
 | MongoDB ATLAS Account and Credentials | [Create Account](https://www.mongodb.com/) |
+| AWS Account and CLI Credentials | [Create Account](https://console.aws.amazon.com/console/home) |
 | Terraform Backend | [Setting up backend](https://www.terraform.io/language/settings/backends/s3)
 
 ## Installation
